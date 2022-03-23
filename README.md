@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+
+This is my GitHub for personal projects (which can be public or private). 
+
+- 🔭 I’m currently working on ...
+- An app for companies to handle their financial resources (Private)
+
+- I'll be working on...
+- An app for companies/individuals to handle several servers easy (Private)
+- An app for improve mental health
+
+- 📫 How to reach me: ...
+ivan.fuentes.r@outlook.com
 
 <!--
 **IvanFuentesR/IvanFuentesR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
