@@ -5,11 +5,11 @@ This is my GitHub for personal projects (which can be public or private).
 <img src="https://api.codiga.io/project/29683/score/svg"> <img src="https://api.codiga.io/project/29683/status/svg">
 
 # 🔭 I’m currently working on ...
-- An app for companies to handle their financial resources (Private)
+- An app for companies to handle their financial resources (Private repository)
 
 # I'll be working on...
-- An app for companies/individuals to handle several servers easy (Private)
-- An app for improve mental health (Public)
+- An app for companies/individuals to handle several servers easy (Will be a private repository)
+- An app for improve mental health (Will be a public repository)
 
 # 📫 How to reach me: ...
 - ivan.fuentes.r@outlook.com
