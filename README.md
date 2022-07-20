@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-This is my GitHub for personal projects (which can be public or private). 
+This is my GitHub for personal/side projects (which can be public or private). 
 
 Quality of code (Using Codiga)
 
