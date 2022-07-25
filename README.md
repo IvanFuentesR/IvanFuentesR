@@ -2,11 +2,6 @@
 
 This is my GitHub for personal/side projects (which can be public or private). 
 
-Quality of code (Using Codiga)
-
-
-<img src="https://api.codiga.io/project/29683/score/svg"> <img src="https://api.codiga.io/project/29683/status/svg">
-
 
 Hours coded **in side projects** since February 2022 (I mean, I code since 2007 but I just started to track the hours with Wakatime 😁)
 
