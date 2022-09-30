@@ -12,3 +12,5 @@ Hours coded since February 2022 (I mean, I code since 2007 but I just started to
 
 # 📫 How to reach me: ...
 - ivan.fuentes.r@outlook.com
+- https://www.linkedin.com/in/ivan-fuentes-2513b6158/
+- https://ivanfuentes.dev
