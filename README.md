@@ -12,10 +12,10 @@ Hours coded since February 2022 (I code since 2007 but I just started to track t
 - https://ivanfuentes.dev
 
 # 🌟 Interests
-- Programming / Software engineering stuff
-- GNU/Linux
-- Software and hardware in general
-- Videogames
-- AI
-- 3D Modeling
-- Music
+- Programming / Software engineering stuff 💻
+- GNU/Linux 🐧
+- Software and hardware in general 🖱️
+- Videogames 🎮
+- AI 🤖
+- 3D Modeling 🐵
+- Music 🎵
