@@ -18,4 +18,4 @@ Hours coded since February 2022 (I code since 2007 but I just started to track t
 - Videogames 🎮
 - AI 🤖
 - 3D Modeling 🐵
-- Music 🎵
+- Listen Music 🎵
