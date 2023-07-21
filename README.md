@@ -10,6 +10,7 @@ Hours coded since February 2022 (I code since 2007 but I just started to track t
 - ivan.fuentes.r@outlook.com
 - https://www.linkedin.com/in/ivan-fuentes-2513b6158/
 - https://ivanfuentes.dev
+- https://ivanfuentes.com
 
 # 🌟 Interests
 - Programming / Software engineering stuff 💻
