@@ -1,4 +1,4 @@
-### Hi there 👋 
+# Hi there 👋
 
 This is my GitHub for personal/side projects (which can be public or private, real work is mostly private, but I have a few quick done repos public). 
 
