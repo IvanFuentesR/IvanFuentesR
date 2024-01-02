@@ -20,3 +20,6 @@ Hours coded since February 2022 (I code since 2007 but I just started to track t
 - AI 🤖
 - 3D Modeling 🐵
 - Listen Music 🎵
+
+![wakatime](https://wakatime.com/wrapped/2022/be04de5f-3444-4fd5-82e1-b183e6dbf471/3bd411837f1521e413544264b44ca68aaf60efac.png)
+![wakatime](https://wakatime.com/wrapped/2023/be04de5f-3444-4fd5-82e1-b183e6dbf471/730eb30c9ae03c71493de46a38a18c13e66c68b3.png)
